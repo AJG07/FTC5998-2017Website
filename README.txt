@@ -1,13 +1,9 @@
 
-TITLE: 
-Concept - 100% Fully Responsive Free HTML5 Bootstrap Template
+TITLE:
+5998 Ultraviolet Team Website
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
-
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+Andrew Gunawan
 
 
 CREDITS:
@@ -52,3 +48,8 @@ Demo Images:
 http://pixeden.com
 http://unsplash.com
 
+Template:
+Concept by gettemplates.co
+Twitter: http://twitter.com/gettemplateco
+Website: http://gettemplates.co/
+Facebook: http://facebook.com/gettemplatesco
